@@ -79,11 +79,6 @@ After dispensing food, the device publishes status updates to the MQTT broker so
 </div>
 
 <div style="text-align: center;">
-<img src="images/assembled_pcb.png" width="220"/>
-<div><strong>ASSEMBLED PCB</strong></div>
-</div>
-
-<div style="text-align: center;">
 <img src="images/enclosure.png" width="220"/>
 <div><strong>ENCLOSURE</strong></div>
 </div>
@@ -93,17 +88,7 @@ After dispensing food, the device publishes status updates to the MQTT broker so
 <div><strong>FINAL PRODUCT</strong></div>
 </div>
 
-<div style="text-align: center;">
-<img src="images/prototype.png" width="220"/>
-<div><strong>PROTOTYPE</strong></div>
-</div>
 
-</div>
-
-<div style="text-align: center; margin-top: 30px;">
-<img src="images/system_diagram.png" width="500"/>
-<div><strong>System Architecture</strong></div>
-</div>
 
 ---
 
