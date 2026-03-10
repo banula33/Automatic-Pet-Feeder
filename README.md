@@ -57,7 +57,7 @@ After dispensing food, the device publishes status updates to the MQTT broker so
 
 # 💻 Software Technologies
 
-- **ESP32 Firmware** – Developed using Arduino framework / MicroPython  
+- **ESP32 Firmware** – Developed using Arduino framework  
 - **MQTT Protocol** – Lightweight messaging protocol for IoT devices  
 - **WiFi Connectivity** – Enables communication with MQTT broker  
 - **MQTT Broker** – Sends commands and receives device status
@@ -107,6 +107,3 @@ After dispensing food, the device publishes status updates to the MQTT broker so
 
 ---
 
-# 📡 MQTT Communication Structure
-
-Example topics used in the system:
