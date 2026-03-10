@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=VCC Pin=ESP32-2
+Removed Pin From Net: NetName=GND Pin=POWER-2
+Change Component Footprint: Designator=Q? Old Footprint=FAIR-TO-92 New Footprint=MLTC-TO-18-3
+Change Component Comment : Designator=Q? Old Comment=2N3904BU New Comment=2N2222
+Change Managed Component Library Link : Designator=POWER Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9A8D2EAC-1B23-4F82-92C2-EA66795D6019 New ItemGUID=13A198B7-2160-45D9-BA10-5BBC61E7EA9A Old RevisionGUID=D59909AA-F2FB-4123-B2B1-E8CC848D86AD New RevisionGUID=5C98CD09-B4EE-476D-9D67-677D59556FE5
+Change Managed Component Library Link : Designator=Q? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D82A9182-C512-49AD-90DF-5A1BBDA60F70 New ItemGUID=8ACE089F-BDF6-42D4-9EFE-D2F75C56F417 Old RevisionGUID=6EAAE616-8D62-4941-9E44-EB706EA21933 New RevisionGUID=E951E6B2-BA19-4D89-9248-B4F3E0CB9015
+Change component parameters: Designator = "POWER" ("POWER"); Footprint = "FP-B2B-XH-A_LF_SN-MFG"; UniqueID = "\IFMUJUOI" ("\IFMUJUOI")
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "XH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "22AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "FAIR-TO-92"; UniqueID = "\PGTFATEM" ("\PGTFATEM")
+Change component parameters (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Voltage Vces"; Value = "400mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Collector Current Ic Max"; Value = "800mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Ic @ Vce Sat"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Ic Continuous a Max"; Value = "800mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Ic hFE"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.farnell.com/datasheets/1662272.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.1, 05/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Collector Current"; Value = "800mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain hFE"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full Power Rating Temperature"; Value = "25degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth ft Min"; Value = "250MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth ft Typ"; Value = "250MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hfe Min"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://uk.farnell.com/b/multicomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Transistors"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "TO-18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package (TO-18), Dia 5.54 mm, Pitch Pitch 1.485mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Configuration"; Value = "a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation Ptot Max"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "NoSVHC(19-Dec-2012)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Vcbo"; Value = "60V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D-2
+Added Pin To Net: NetName=VCC Pin=WATERP-1
+Added Pin To Net: NetName=3V3 Pin=ESP32-2
+Added Pin To Net: NetName=3V3 Pin=POWER-2
+Added Net: Name=3V3
+Added Member To Class: ClassName=final_sheet Member=Component Q? 2N2222

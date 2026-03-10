@@ -1,0 +1,9 @@
+[HX711 Module Header - Schematic Symbol]
+ComponentName=HX711_Module_Header
+Pins=5
+Pin1=VCC
+Pin2=GND
+Pin3=DT
+Pin4=SCK
+Pin5=NC
+Package=None

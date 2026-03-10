@@ -1,0 +1,115 @@
+Added Component: Designator=220R(RESC1608X55X25ML10T15)
+Added Component: Designator=470R1(RESC2013X60X35LL10T20)
+Added Component: Designator=470R2(RESC2013X60X35LL10T20)
+Added Component: Designator=470R3(RESC2013X60X35LL10T20)
+Added Component: Designator=470R4(RESC2013X60X35LL10T20)
+Added Component: Designator=C1(FP-1206-L_3_2_0_15-W_1_6-IPC_B)
+Added Component: Designator=D1(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D2(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D3(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D4(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=P1(648105131822)
+Added Component: Designator=P2(648105131822)
+Added Component: Designator=P3(620302124022)
+Added Component: Designator=POWER(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=Q1(MLTC-TO-18-3)
+Added Component: Designator=S_PORT(TECO-640456-4)
+Added Component: Designator=SMC_O(FP-90120-0125-MFG)
+Added Component: Designator=SMC(STM-DIP-16L)
+Added Component: Designator=SW1(FP-3-1825910-1-MFG)
+Added Component: Designator=WATERP(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=WIFI(FP-90120-0125-MFG)
+Add Pin To Net: Unknown Pin: Pin 220R-1
+Add Pin To Net: Unknown Pin: Pin 220R-2
+Add Pin To Net: Unknown Pin: Pin 470R1-1
+Add Pin To Net: Unknown Pin: Pin 470R1-2
+Add Pin To Net: Unknown Pin: Pin 470R2-1
+Add Pin To Net: Unknown Pin: Pin 470R2-2
+Add Pin To Net: Unknown Pin: Pin 470R3-1
+Add Pin To Net: Unknown Pin: Pin 470R3-2
+Add Pin To Net: Unknown Pin: Pin 470R4-1
+Add Pin To Net: Unknown Pin: Pin 470R4-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin P2-4
+Add Pin To Net: Unknown Pin: Pin P2-5
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin POWER-1
+Add Pin To Net: Unknown Pin: Pin POWER-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin S_PORT-1
+Add Pin To Net: Unknown Pin: Pin S_PORT-2
+Add Pin To Net: Unknown Pin: Pin S_PORT-3
+Add Pin To Net: Unknown Pin: Pin S_PORT-4
+Add Pin To Net: Unknown Pin: Pin SMC-1
+Add Pin To Net: Unknown Pin: Pin SMC-2
+Add Pin To Net: Unknown Pin: Pin SMC-3
+Add Pin To Net: Unknown Pin: Pin SMC-4
+Add Pin To Net: Unknown Pin: Pin SMC-5
+Add Pin To Net: Unknown Pin: Pin SMC-6
+Add Pin To Net: Unknown Pin: Pin SMC-7
+Add Pin To Net: Unknown Pin: Pin SMC-8
+Add Pin To Net: Unknown Pin: Pin SMC-9
+Add Pin To Net: Unknown Pin: Pin SMC-13
+Add Pin To Net: Unknown Pin: Pin SMC-14
+Add Pin To Net: Unknown Pin: Pin SMC-15
+Add Pin To Net: Unknown Pin: Pin SMC-16
+Add Pin To Net: Unknown Pin: Pin SMC_O-1
+Add Pin To Net: Unknown Pin: Pin SMC_O-2
+Add Pin To Net: Unknown Pin: Pin SMC_O-3
+Add Pin To Net: Unknown Pin: Pin SMC_O-4
+Add Pin To Net: Unknown Pin: Pin SMC_O-5
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin WATERP-1
+Add Pin To Net: Unknown Pin: Pin WATERP-2
+Add Pin To Net: Unknown Pin: Pin WIFI-1
+Add Pin To Net: Unknown Pin: Pin WIFI-2
+Add Pin To Net: Unknown Pin: Pin WIFI-3
+Add Pin To Net: Unknown Pin: Pin WIFI-4
+Add Pin To Net: Unknown Pin: Pin WIFI-5
+Add Class Member: Failed to add class member : Component 220R RC0603FR-07220RL
+Add Class Member: Failed to add class member : Component 470R1 RC0805FR-07470RL
+Add Class Member: Failed to add class member : Component 470R2 RC0805FR-07470RL
+Add Class Member: Failed to add class member : Component 470R3 RC0805FR-07470RL
+Add Class Member: Failed to add class member : Component 470R4 RC0805FR-07470RL
+Add Class Member: Failed to add class member : Component C1 EMK316BJ106MLHT
+Add Class Member: Failed to add class member : Component D1 1N4004
+Add Class Member: Failed to add class member : Component D2 1N4004
+Add Class Member: Failed to add class member : Component D3 1N4004
+Add Class Member: Failed to add class member : Component D4 1N4004
+Add Class Member: Failed to add class member : Component D 1N4004
+Add Class Member: Failed to add class member : Component P1 648105131822
+Add Class Member: Failed to add class member : Component P2 648105131822
+Add Class Member: Failed to add class member : Component P3 620302124022
+Add Class Member: Failed to add class member : Component POWER B2B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component Q1 2N2222
+Add Class Member: Failed to add class member : Component S_PORT 640456-4
+Add Class Member: Failed to add class member : Component SMC_O 90120-0125
+Add Class Member: Failed to add class member : Component SMC ULN2003A
+Add Class Member: Failed to add class member : Component SW1 3-1825910-1
+Add Class Member: Failed to add class member : Component WATERP B2B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component WIFI 90120-0125

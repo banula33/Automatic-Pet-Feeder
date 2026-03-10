@@ -1,0 +1,147 @@
+Added Component: Designator=220R(RESC1608X55X25ML10T15)
+Added Component: Designator=470R1(RESC2013X60X35LL10T20)
+Added Component: Designator=470R2(RESC2013X60X35LL10T20)
+Added Component: Designator=470R3(RESC2013X60X35LL10T20)
+Added Component: Designator=470R4(RESC2013X60X35LL10T20)
+Added Component: Designator=C1(FP-1206-L_3_2_0_15-W_1_6-IPC_B)
+Added Component: Designator=D1(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D2(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D3(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D4(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=D(ONSC-AXIAL_LEAD-2-59-10_P)
+Added Component: Designator=ESP32(MODULE_ESP32-WROOM-32)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Module Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-WROOM-32/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(648105131822)
+Added Component: Designator=P2(648105131822)
+Added Component: Designator=P3(620302124022)
+Added Component: Designator=POWER(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=Q1(MLTC-TO-18-3)
+Added Component: Designator=S_PORT(TECO-640456-4)
+Added Component: Designator=SMC_O(FP-90120-0125-MFG)
+Added Component: Designator=SMC(STM-DIP-16L)
+Added Component: Designator=SW1(FP-3-1825910-1-MFG)
+Added Component: Designator=U1(SPARKFUN_SEN-13879)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SEN-13879"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SPARKFUN_SEN-13879)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SEN-13879"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WATERP(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=WIFI(FP-90120-0125-MFG)
+Added Pin To Net: NetName=3V3 Pin=ESP32-2
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=3V3 Pin=U2-9
+Added Net: Name=3V3
+Added Pin To Net: NetName=7 Pin=ESP32-11
+Added Pin To Net: NetName=7 Pin=U2-7
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=ESP32-6
+Added Pin To Net: NetName=8 Pin=U2-8
+Added Net: Name=8
+Added Pin To Net: NetName=9 Pin=ESP32-7
+Added Pin To Net: NetName=9 Pin=U1-8
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=ESP32-12
+Added Pin To Net: NetName=10 Pin=U1-7
+Added Net: Name=10
+Added Pin To Net: NetName=12 Pin=ESP32-14
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=ESP32-16
+Added Net: Name=13
+Added Pin To Net: NetName=ENA Pin=ESP32-3
+Added Net: Name=ENA
+Added Pin To Net: NetName=GND Pin=ESP32-1
+Added Pin To Net: NetName=GND Pin=ESP32-15
+Added Pin To Net: NetName=GND Pin=ESP32-38
+Added Pin To Net: NetName=GND Pin=ESP32-39_1
+Added Pin To Net: NetName=GND Pin=ESP32-39_2
+Added Pin To Net: NetName=GND Pin=ESP32-39_3
+Added Pin To Net: NetName=GND Pin=ESP32-39_4
+Added Pin To Net: NetName=GND Pin=ESP32-39_5
+Added Pin To Net: NetName=GND Pin=ESP32-39_6
+Added Pin To Net: NetName=GND Pin=ESP32-39_7
+Added Pin To Net: NetName=GND Pin=ESP32-39_8
+Added Pin To Net: NetName=GND Pin=ESP32-39_9
+Added Pin To Net: NetName=GND Pin=ESP32-39_10
+Added Pin To Net: NetName=GND Pin=ESP32-39_11
+Added Pin To Net: NetName=GND Pin=ESP32-39_12
+Added Pin To Net: NetName=GND Pin=ESP32-39_13
+Added Pin To Net: NetName=GND Pin=ESP32-39_14
+Added Pin To Net: NetName=GND Pin=ESP32-39_15
+Added Pin To Net: NetName=GND Pin=ESP32-39_16
+Added Pin To Net: NetName=GND Pin=ESP32-39_17
+Added Pin To Net: NetName=GND Pin=ESP32-39_18
+Added Pin To Net: NetName=GND Pin=ESP32-39_19
+Added Pin To Net: NetName=GND Pin=ESP32-39_20
+Added Pin To Net: NetName=GND Pin=ESP32-39_21
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO0 Pin=ESP32-25
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO25 Pin=ESP32-10
+Added Net: Name=GPIO25
+Added Pin To Net: NetName=IN1 Pin=ESP32-28
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=ESP32-30
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=ESP32-31
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=ESP32-33
+Added Net: Name=IN4
+Added Net: Name=Net220R_2
+Added Net: Name=Net470R1_1
+Added Net: Name=Net470R1_2
+Added Net: Name=Net470R2_1
+Added Net: Name=Net470R2_2
+Added Net: Name=Net470R3_1
+Added Net: Name=Net470R3_2
+Added Net: Name=Net470R4_2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetP1_1 Pin=U1-5
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=U1-4
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=U1-3
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=U1-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=U1-1
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP2_1 Pin=U2-5
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=U2-4
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP2_3 Pin=U2-3
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=U2-2
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetP2_5 Pin=U2-1
+Added Net: Name=NetP2_5
+Added Net: Name=NetQ1_3
+Added Net: Name=NetSMC_13
+Added Pin To Net: NetName=RX Pin=ESP32-34
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=ESP32-35
+Added Net: Name=TX
+Added Net: Name=VCC
+Added Class: Name=final_sheet
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
